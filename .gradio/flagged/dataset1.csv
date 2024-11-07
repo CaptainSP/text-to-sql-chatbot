@@ -1,0 +1,2 @@
+question,output 0,output 1,timestamp
+Who is the oldest person?,The query returned a single result: Jouni Pocchiola.,"{""headers"": [""1"", ""2""], ""data"": [[""Jouni"", ""Pocchiola""]], ""metadata"": null}",2024-11-06 17:31:28.895820
